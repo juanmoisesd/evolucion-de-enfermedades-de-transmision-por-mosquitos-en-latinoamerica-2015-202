@@ -1,0 +1,39 @@
+{
+  "title": "evolucion de enfermedades de transmision por mosquitos en latinoamerica 2015 202",
+  "description": "evolucion de enfermedades de transmision por mosquitos en latinoamerica 2015 202",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-zero",
+  "creators": [
+    {
+      "name": "de la Serna Tuya, Juan Moisés",
+      "affiliation": "Universidad Internacional de La Rioja (UNIR)",
+      "orcid": "0000-0002-8401-8018"
+    }
+  ],
+  "keywords": [
+    "cc0",
+    "dataset",
+    "latin-america",
+    "open-data",
+    "vector-borne-diseases",
+    "zenodo",
+    "open-data",
+    "dataset",
+    "research"
+  ],
+  "language": "eng",
+  "communities": [
+    {
+      "identifier": "zenodo"
+    }
+  ],
+  "grants": [],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanmoisesd/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
