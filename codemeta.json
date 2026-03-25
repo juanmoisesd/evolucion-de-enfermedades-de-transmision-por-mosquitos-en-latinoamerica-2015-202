@@ -3,24 +3,18 @@
   "@type": "SoftwareSourceCode",
   "name": "evolucion de enfermedades de transmision por mosquitos en latinoamerica 2015 202",
   "version": "1.0.0",
-  "identifier": "https://github.com/juanmoisesd/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202",
-  "datePublished": "2025",
+  "identifier": "https://juanmoisesd.github.io/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "codeRepository": "https://github.com/juanmoisesd/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202",
   "author": [
     {
       "@type": "Person",
       "givenName": "Juan Moisés",
-      "familyName": "de la Serna",
-      "affiliation": {
-        "@type": "Organization",
-        "name": "Universidad Internacional de La Rioja (UNIR)"
-      }
+      "familyName": "de la Serna"
     }
   ],
   "programmingLanguage": [
     "Python",
     "Jupyter Notebook"
-  ],
-  "keywords": "age-structure, cc0, citation, dataset, demographic-transition, demography, epidemiology, fair-data, global-health, infectious-diseases, juan-moises-de-la-serna, latin-america, open-data, open-science, orcid, population-data, public-health, research, vector-borne-diseases, zenodo"
+  ]
 }
