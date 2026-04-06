@@ -77,3 +77,29 @@ If you use this repository in your research, please cite:
 > 290+ scientific works · 500+ DOIs · 90+ open datasets · Top 1% Academia.edu
 
 See also: [ABOUT_THE_AUTHOR.md](./ABOUT_THE_AUTHOR.md) · [CITATION_GUIDE.md](./CITATION_GUIDE.md) · [GLOSSARY.md](./GLOSSARY.md)
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Evolucion De Enfermedades De Transmision Por Mosquitos En Latinoamerica 2015 202*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/evolucion-de-enfermedades-de-transmision-por-mosquitos-en-latinoamerica-2015-202 10.5281/zenodo.19145316
+
+See `CITATION.cff` for formatted references.
+
+## Overview
+This repository contains data and resources related to **evolucion de enfermedades de transmision por mosquitos en latinoamerica 2015 202**. It is part of an open science initiative to share research findings and datasets with the global scientific community.
+
+## Research Context
+The project addresses key questions in the field of neuroscience and social sciences, focusing on providing accessible data for further analysis and validation.
+
+## Repository Structure
+- `data/`: Contains the datasets used in this research.
+- `src/`: Source code for data processing and analysis.
+- `results/`: Output files, figures, and metrics.
+
+## Usage
+To use the resources in this repository, clone the project and ensure you have the necessary dependencies installed. Refer to the specific documentation in each folder for more details.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
